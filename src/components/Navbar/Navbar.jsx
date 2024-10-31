@@ -9,7 +9,7 @@ const Navbar = () => {
       </li>
 
       <li>
-        <a>Item 3</a>
+        <NavLink to='listedBooks'>Listed Books</NavLink>
       </li>
     </>
   );
